@@ -8,5 +8,6 @@ module Trackerific
     require 'trackerific/builders/fedex'
     require 'trackerific/builders/ups'
     require 'trackerific/builders/usps'
+    require 'trackerific/builders/purolator'
   end
 end

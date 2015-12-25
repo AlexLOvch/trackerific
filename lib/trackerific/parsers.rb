@@ -4,5 +4,6 @@ module Trackerific
     require 'trackerific/parsers/fedex'
     require 'trackerific/parsers/ups'
     require 'trackerific/parsers/usps'
+    require 'trackerific/parsers/purolator'
   end
 end

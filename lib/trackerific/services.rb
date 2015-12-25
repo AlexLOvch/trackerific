@@ -47,5 +47,6 @@ module Trackerific
     require 'trackerific/services/fedex'
     require 'trackerific/services/ups'
     require 'trackerific/services/usps'
+    require 'trackerific/services/purolator'
   end
 end
